@@ -10,3 +10,6 @@ This project is the Patika.dev NEAR Developer Course study project. (Includes Pr
 
 ## Task 3
 ![task-3](https://user-images.githubusercontent.com/12177427/162193822-c5ca5351-7ae1-419d-8cc8-c375543be393.PNG)
+
+## Task 4
+![task-4](https://user-images.githubusercontent.com/12177427/163818426-14d34808-a13a-4b42-88ad-85129a778c66.PNG)

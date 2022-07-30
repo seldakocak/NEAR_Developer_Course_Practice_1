@@ -1,4 +1,4 @@
-# NEAR_Developer_Course_Practices 1
+# NEAR_Developer_Course_Practices_1
 ## web3-fundamentals-and-near-protocol
 This project is the Patika.dev NEAR Developer Course study project. (Includes Practice 1, 2 and 3) https://app.patika.dev/courses/near-developer-course
 
